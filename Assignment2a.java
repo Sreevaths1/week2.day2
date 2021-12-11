@@ -50,7 +50,6 @@ public class Assignment2a {
 		String title2=driver.getTitle();
 		System.out.println(title2);
 		
-		//driver.close();
 		
 	}
 
